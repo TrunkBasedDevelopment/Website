@@ -8,7 +8,7 @@ url:              http://trunkbaseddevelopment.com
 
 # Owner/author information
 owner:
-  name:           Paul Hammant
+  name:           Committers to the [https://github.com/paul-hammant/tbd](https://github.com/paul-hammant/tbd) Github project.
   avatar:         bio-photo.jpg
   email:          paul@hammant.org
   # Social networking links used in footer. Update and remove as you like.
@@ -36,8 +36,8 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
+#  - title: Theme Setup
+#    url: /theme-setup
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
