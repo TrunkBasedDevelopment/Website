@@ -1,16 +1,16 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Trunk Based Development
+description:      Promoting Trunk Based Development as a branching model
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://trunkbaseddevelopment
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Paul Hammant
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          paul@hammant.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -38,9 +38,9 @@ links:
     url: /articles
   - title: Theme Setup
     url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
