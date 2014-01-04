@@ -10,7 +10,7 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-It is a branching model that promotes avoid shared development branches. We claim this makes for greater dev-team throughput, and less bugs, but requires discipline.
+It is a branching model that promotes avoid shared development branches. We claim this makes for greater dev-team throughput, with less bugs. It does requires discipline though.
 
 ## Synopsis
 
@@ -21,4 +21,4 @@ It is a branching model that promotes avoid shared development branches. We clai
 
 ## Knock yourself out with
 
-* Local branching - just don't share them
+* Local branches - just don't share them
