@@ -8,9 +8,9 @@ url:              http://trunkbaseddevelopment.com
 
 # Owner/author information
 owner:
-  name:           Committers of the <a href="https://github.com/paul-hammant/tbd">github.com/paul-hammant/tbd</a> project.
+  name:           'Committers on the <a href="https://github.com/TrunkBasedDevelopment/Website">TrunkBasedDevelopment/Website</a> Github project, collectively.'
   avatar:         bio-photo.jpg
-  email:          paul@hammant.org
+  email:          tbd@hammant.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
